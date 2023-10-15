@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.typeconv.formatter.FormattingConversionServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-08T08:33:04" hostname="DESKTOP-J02PHB4" time="0.629">
+  <properties/>
+  <testcase name="formattingConversionService()" classname="com.example.typeconv.formatter.FormattingConversionServiceTest" time="0.629"/>
+  <system-out><![CDATA[17:33:05.051 [Test worker] INFO com.example.typeconv.converter.StringToIpPortConverter - convert source = 127.0.0.1:8080
+17:33:05.200 [Test worker] INFO com.example.typeconv.formatter.MyNumberFormatter - text = 1000 locale = ko_KR
+17:33:05.214 [Test worker] INFO com.example.typeconv.formatter.MyNumberFormatter - text = 1,000 locale = ko_KR
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
